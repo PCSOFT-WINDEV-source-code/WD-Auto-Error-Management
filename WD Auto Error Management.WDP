@@ -1,0 +1,103 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Auto Error Management
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Discover Error Management.WDP example
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Auto Error Management
+    internal_properties : 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
+    configuration_id : 18198706097391994428
+    type : 1
+    description : WD Auto Error Management
+    generation_name : WD Auto Error Management.exe
+    version :
+     version : VI200066P
+     internal_generation_version : 3
+     autoincrement_version : false
+    icon_filename : .\TUT.ico
+    language : 2
+ elements :
+  identifier : 0x4aadf281002b145a
+  elements :
+   -
+     name : WIN_FatalError
+     identifier : 0x4513b82100005082
+     internal_properties : CAAAAAgAAABVMb3h3rvzLDqZN2/ECK7AiTZ8vJ/rVzGzeyrBW9W5X+EDA9FNq6OTh744gADwiHhAwA==
+     physical_name : .\WIN_FatalError.wdw
+     type : 2
+   -
+     name : WIN_Menu
+     identifier : 0x451798fe000099e5
+     internal_properties : CAAAAAgAAACGjO4y8a4GKTHUAtoXROuVzv+17d27YOJOh7eZeI0HKSvLVQ8C/vBeUskzjRXLtymTkw==
+     physical_name : .\WIN_Menu.wdw
+     type : 2
+   -
+     name : WIN_NonFatalError
+     identifier : 0x451150660001e1fc
+     internal_properties : CAAAAAgAAACrp5P3NHE5YmzfcTUyUPA2TxhKmjlN4qarKV6V0y3pJ9Vb5/0X4d1NTfTuykqGcmautg==
+     physical_name : .\WIN_NonFatalError.wdw
+     type : 2
+   -
+     name : WIN_SeveralLevels
+     identifier : 0x45179a3d00017b58
+     internal_properties : CAAAAAgAAAATfSUOrgwFX9Q4XQJiztO3qng0tZuHJb3ZfUHvtSh5NkU4EnHnVX6FP5znwZTtngUW
+     physical_name : .\WIN_SeveralLevels.wdw
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wb_style_sheet : .\WD Auto Error Management.sty
+ code_elements :
+  internal_properties : CAAAAAgAAADW7wQ3xfVJ570PKKZZ9OKmf6VeolQp5LasC66IJEze5+oxS02geQls/7bSDyn0G4arQIdbIbzpM2ZYUOxVUg==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Auto Error Management
+     identifier : 0x4aadf281003114f6
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

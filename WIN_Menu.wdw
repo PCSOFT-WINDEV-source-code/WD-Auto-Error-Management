@@ -1,0 +1,158 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Menu
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Menu
+ identifier : 0x23340e9c032c70b5
+ internal_properties : CAAAAAgAAAB5YWizpfbV1oMNx7n2onaskcl0JqjKJY27D9AAeOWtKmoBw2gEU00jUOkimoovMBoZ5bDfABNAgQXTlsL6lB1myBCOdjJaF7kizT4mW0NkRmnDfFbtyCOMXlTui6s+n2ydpptbkHrBtV6ZgaxVMhhevvw85AeYeDb8JzuHmSOaIndvLDXlzQgQE2RXd533fddPYDvjOd38uAVGhPHuV/Z40S6WcSRiZiMdgNIMq7pKCepMVnopLmgHf3c/yRxPuR3da67SARsR/KBtQ8u2/B+pkxyTy4g2tFdG6Mf60jgTvKYgEmCgG0BzvPh9BmvBC+5hrZb4+M200H8nqOJeqZhDL/sKit1B9Z7FZnNiBIhlPFo/Zu7rK75YWe7uJTu+yYhnyYKAjPaPm0spgQHTHCDFaS/PMjMZMJWVs9a4xL8/RM19KEeoXNgB8lo7hUNkxSwQ4rVuqjTc3gMw8kw/Ju4VoI0KTbzXtA0mdGQz8G0KH7XU5GE7mg9aWqkytQ+8rzHHRYO3oDInDKDzOh5+4hCLnCtTVHEwiLdxEYqkNQGl+KCmJrXsWWj824tktMJNRU11TDtIXCjNaL6Rc4zaw4paB4KBoqaztCJSUAXNNoHFcljOP0b0ZjVCqIb5YzI2tYCCcyr/CuDDByevqoQ3Takro6vFwn8envjLo5OG0WN7XIXL7LENBdbTy/e0KV8+G04OXEItG0MIC8XDzx0eCtOm6eWuj8o7Zzz6op0B3xs7CgshnyAVPXYy6lOcJRN3mcd8ENeapcVC
+ properties :
+  width : 676
+  height : 288
+  widthClient : 674
+  heightClient : 256
+ controls :
+  -
+    name : BTN_Exit
+    identifier : 0x23340e9c032d70b5
+    internal_properties : CAAAAAgAAABaBhahfk32raBnVRK3AJpoPBDLg2mkJ5LSAjSwL8dotxJNqO/lsH+sNOh3HcXefWLI3aEOE0RusmmJ+nuDt2Db+4jPASuNgeL0rkRnebtfLHvxrY8GBisqcyb9m4izp3oMx4sv4IytBP7WXoHLvdAwa1tAJW6Ol/F3Ifs4cndEZG9AtJVi61YtMcJiON7S5M7+EXy4Co/LGQibHy+QyCuNP7gLXobciGxmmSAZ9jEUOwFkXrXG71ARipsW4pJV/EJ+lsYIAFGUQOB97J17nnEcPZXg1cFizzNICO0COSM9Qrwo9x6w35GLW1gFXN8eyBdbgiy3c86575j8fSm9XfxBLJOmqs6uPweLD2nrU9dneinaFPJpthFSzfxn8ezZfkNiDulKo1M4XLBqWSb05191EoIxgEcx7bx0SSR3JEMuf00O8RGf8+0EmzDhP4OKFCHyjv7jh9t4iZZEph8srBarCO0EFXVE6DJOjqAFo/h0nr2oK2Fe2Z8lRTXFdQI7oGu1NEaIXnYBveBVHdJE6RO75K9PGVT0H+Uc7d23UZzdeFZQ6ZF0tNRMZK9cMG68G1Po+VemnoqCU98X+X3XBQVKRmVeQgmvyiVEmekFG6XcNQLyBhPyGfgFACflEezdTdQ9RVPdEjpdjGdyQrVtQKoreFuG7K0pwmZFRGPIJcTsFnXzRENuYDz6/wM9lor+nUImTENhDp9vnhYdeDp/xbT/UW/KVM8dXagsj7C5mTjvXE4Tp9BOgS2SRjyPdHwtv1g/woWi8O5aNu9XrytBm75uZd/GmTT8xC3+GFysZgLPsMoxM4LOnVprBvp3eQxXS10eeX1n4kQBUjCaUjLuMJwf+lsBAURG4b5XAcXyhYtTzjyjtBIVdJ2ipvEAqYmp9BaSSPskxvIiQxturNSlddjCuY0v5TWwuG8LY2Wc/JMIKv92G0K1iVpDx8d3JayG+ZaZMxooTr0xvufYqyAE21PU
+    properties :
+     x : 588
+     y : 226
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_FatalError
+    identifier : 0x23340e9c032e70b5
+    internal_properties : CAAAAAgAAAAGmAFMHN/HaPpBTvQWJPnOJezTEL7sMX26z8m7KvNd2FltH1WUYXYz3/zK1/E56SRAaPJo/ZEuH/uRrUpAX3Y49dasP/lSpKCcL55Rdx1hjaAXcfJsLD+Zg6XimYCsf47+8P2HVde7ZQnjurJWSxqd612e9J51NAj3wm4NpSXSmm6Ce4rkWZ7OThYQbOJwLC1VI2euvo4/1qpSDcMtxkQcs6Kgzkjz0/ux161TEs+RtJVzjjzEjgS7A26jgjvUFQtLzXWcx8fUZilB9jhIWVlKvcvn24JIWHDANAkDHEvPlQCOLaUcHP/JUQk+/lO1a0Vfgca/HQ7Hyejb2IJN//2tJupOFSwPjfVeTtMYB+Uzlf77Jrt7a8f+tQ+yweklEEoCNdTLRp3etGKS/+r8v/zgSLWiDJwnZWCrhSVwWq7jcsbRKqDqbMLG6akEDWc2sVjRfxt1tqdDqpIL6CbzPOqrg8WSfgqqgorVw8z9BQBy+Y/AeWpSTUKqO9AFS/lF9NomhgEzl4J0uEyFE5cpo2AJ8rFkk2OGb3LrCwYO7MJRHKWES4CqS+Mn5GCZLlXGL6FpxCc98vShsMVXq0Olz/xlHb2XyGMtgYv1FzZ8z/8QQzVgQ/ozfIpFpiXSMnbhWp9+ZVCoqgvdkN3iy3zXoxktBtnXziy5mwslF5kcvb3ztACUh4h1zFrLbBczGn4N5t/zkdpI4gDfQlw/zLslLVk2YdEPWfwgL2GMjoJKidmDR4m+h/9CBNy4nn3l14eRgklRNTPc1QGBdd4B29tPHfrayzRXxCE9KTabni1M9snnlzNqa4txFgxXMc5y5ebFiJ3jxFSjnpMx2J3Q53OBb0Z/4zxKS1OeSABgiZissvUw/VcWx1owYjcd4x+PQHSjkESWcVl8YCvCgk5JhXmd
+    properties :
+     x : 190
+     y : 116
+     width : 295
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Opens the example for automatic management of errors on a fatal error
+         Open(WIN_FatalError)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_NonFatalError
+    identifier : 0x23340e9c032f70b5
+    internal_properties : CAAAAAgAAADYKIeXGbSZItXOgZ2x1moo6xJCD1dkWu/8W35WLzZgjXJ4xo31mcN/wiO+xYBMWl8ptaWKfzowxc3jkDXC+dndknRd8gsJvCKQubiIfdXFK+EJ8ztEtAt1d1/Lzqiu1BxBQKW3OKCjBXxgSJfsELWMqo6uZB5IsMjwmI3YxQysAsTNxopA1bOkxIej9rkQFfhmGvDWrgKviscCGHQlI5JGOo+kBvE4g45az9Y1mA4vr6qjidby0axi6vNrQyqeUDGO11ycr5SSVkRaJT5CdII/vdZpZX2eGpgGLFOTtCeExdDrXJM2eZNaK3cBAcbmAmqMUx8djeiunvhb8yJKs0q5uXJLnttX+3pffpbcTsXzhpCj48UYxG10Y8EVc7bUpjTSiGsF2PIGA/jOxonxwQ2saUwVpCbLmHQgq5lf50+LSnvvC7+r0G3bjIZCxlw1fqI4q5y6dTaEhPXUE3G0WhxKiqmXl7UykDK1HrDHJf2W0VlNsIWKmn4IC/F1/7vu0xFhizkq16rMyVhtAMGO930CQoWQMtX+fj5ounL+9Gy/AKCsWaiDd83L1G4fEJK5AuDfQeXoHNioqngkMuDH/oOEzTufC2Q/6k/DLrb3FolGlLYNyeQDT30IeNdDjk04rwjJWj2GS66v5LsKEC8iJj5dowCP6ipXde22dnKm71zVy5RXgOLN2CzYwSoRVaCwpQSsyMpSqHERGgVF1T/xsp+W1or4ruy2AhpqtYnJnFDAoJ+8NDGkghYMH/VkJtNqaeIMBScj8mFJFm9xlsST8geytkjOYSL7mOR3hsKex+waBCm0WOJ5YkQ6sjghaM9BcD5BhqW6M5lDY+fgjK2ihGDdYSja1hd4/Xhj6yOyrtI6Q+0ywu/Cj6DGyOyos7umOx8X7Y02HsAm+84F6PrzhZxL8tFZ
+    properties :
+     x : 190
+     y : 74
+     width : 295
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Opens the example for automatic management of errors on a non-fatal error
+         Open(WIN_NonFatalError)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_SeveralLevels
+    identifier : 0x23340e9c033070b5
+    internal_properties : CAAAAAgAAAB4fPO1o7QfNypUtn1dpdLSfz7GDZolmHIpEy9bj973GpuODw3HuB32rl9/+4xknAweMx3NC48v3lW2QPuJeiH5ibVbPrI8zyLPx7wD2NW9QUoRTu9dZpdjIUFkLvXAuQy7lHPbLT6u0UT0RT3eaDR8FaVd0WeovtqFOnADn6fhL4WQY+JdwiRoZmMqSAw3vO6kvX73kM3i1sJafxJN6CKXy0lz21RuU6yirAX6Ue6A0dnwFrKHaZjBMu5Xjij0LCNkYt5Pr+5BGERbRlv28L6r2FexjShcLzbY+Gk7xgxKx4IZWUHoY/SrrWLS60+K/PlUcMvj7BhYsJs08U9C7h6PVt0ctC+Qz7kPGwSRUOEHa6SViRAgtwcfrmeRHAHR5c3KxrkMfpwsz0lR63prV8F5+VKk1nkvjA4j69mqQ4GOmlPnxQhPEwl97ze5Gyu8fV1Oyrp0Udjo7DalOD1V4EarHNBwZ1bAO+t6e33xsO/UKBfU5a9vfoPD8txmRaTYeXSTQmSIalpdVN9aHdNPxV+7XIK16JKK4xnzY6UATxADUyzJaiyciToityVYzgXrgBHhZEKS9eRdbVtdh4QKHG3NtXBKYXO/i0L+j2nlnbPMv3CyClIi78YHhxIiarhuUenBQSj+3lCsz5o1w/kJAqpgzd2ORrlDsnRh9/O+rpQdINIC++wgIpP9JnOWS/ucARE4BVke/1+kY6pM1glsYJkBaHU1lI+mka93ytUhX3qOKWHpj90ttB3hzKxreIaIu5GSqlLdNaWu8ZYG2YAivC0HSo1Pn0EXHZ929dWychoUUJgEyBU/JKFNwzf6GNxPEAwlHxC8SJzpYAVwULi091F3+OLgJBzIJcmj35f3xSY5dVYABIB2EAZrVZV2+c/U9cRT2DBsKa8osE/qhs2jwdoKpjhDcghJkb6acg==
+    properties :
+     x : 190
+     y : 158
+     width : 295
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         // Opens the example for automatic management of errors on an error that propagates on several levels
+         Open(WIN_SeveralLevels)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : STC_Details
+    identifier : 0x23340e9c033170b5
+    internal_properties : CAAAAAgAAAD8TTckGAplGxLIb1d/9t2b3LyjkBwiElqYHT++voeLFazy8FRnJrNgnBMYaxAcEkujuK2o3TMM5YBLgVrn4CzoUvhBfg5HmNatOllBAPY3nb4OjMudq8i+i++09vZRgNSf7i4OM/ljyS48RBVnmAr3G+vFGSP852CRm16moHADxXjHMMu2uBZlv0N67BgQNOjgkJMEcDFhWirS1+tBxRQKbi/7DXTJw+qfjMJErgfdQMAjXS/HrUs+2iKP4G2tI5VHlieIq8fFfUdi5zfgWYuA1uqIuXmDMCiF/a6bEcTvs/iHjsK9zQxOD5A8Cr1SH57TThh8Y82yG7Fhk/xSduAT6RzWrY3vmzyFrqZFnDjuwTj3pvQmewgyDeRF8Bjbr+gM0+hKT5kUpDC4J7zo2sgVEnlyO81rVk+oiowrMoO9IQJOmQsbqXWDDwXZcUnzT9W/gFx1BOPWoJUfbgtnmUku+TixRiVwvPglJ40SAGRabO7L4NybKwjZ0x6gUV3X6YOVOBBqasiZjql+fZuGAROhEpZ7zki8Xv7gz2U1Vx1Nqu3U8YY=
+    properties :
+     x : 6
+     y : 6
+     width : 662
+     height : 14
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x251798e485263a8e
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADdxbVs07BkUS1UoOocTYH8Pnj2yquQHxrY8De1vYbVr4YDE1RgywN80mU2BxwIVUD5LlU1+93jNB9AajpXxXXTB5iNXZtsMizFcDtK/drZnVEZbEazzAXcxLFTFU1o
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      Procedure WIN_Menu()
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : modele1
+resources :
+ string_res :
+  identifier : 0x151798d8000b0749
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : Media Center_0_D.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
